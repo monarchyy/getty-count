@@ -8,10 +8,11 @@ Python
 
 ## Usage/Examples
 
-```javascript
-1. Set the output_path to a .txt file
-2. Set your search terms inside terms_to_scrape
-3. Change domain extension if needed
-4. Run scraper.py
+```bash
+1. Install the requirements.txt file
+2. Set the output_path to a .txt file
+3. Set your search terms inside terms_to_scrape
+4. Change domain extension if needed
+5. Run scraper.py
 
 ```
